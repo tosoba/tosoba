@@ -4,28 +4,28 @@ These are some of my projects.
 <!-- This version is safest for GitHub READMEs -->
 <table>
   <tr>
-    <th>Sightline</th>
-    <th>DayLighter</th>
+    <th><a href="https://github.com/tosoba/Sightline">Sightline</a></th>
+    <th><a href="https://github.com/tosoba/DayLighter">DayLighter</a></th>
   </tr>
   <tr>
-    <td><img src="./screenshots/sightline.png" width="400"></td>
-    <td><img src="./screenshots/daylighter.png" width="400"></td>
+    <td><a href="https://github.com/tosoba/Sightline"><img src="./screenshots/sightline.png" width="400"></a></td>
+    <td><a href="https://github.com/tosoba/DayLighter"><img src="./screenshots/daylighter.png" width="400"></a></td>
   </tr>
   <tr>
-    <th>AudioFeels</th>
-    <th>Alarmist</th>
+    <th><a href="https://github.com/tosoba/AudioFeels">AudioFeels</a></th>
+    <th><a href="https://github.com/tosoba/Alarmist">Alarmist</a></th>
   </tr>
   <tr>
-    <td><img src="./screenshots/audiofeels.png" width="400"></td>
-    <td><img src="./screenshots/alarmist.png" width="400"></td>
+    <td><a href="https://github.com/tosoba/AudioFeels"><img src="./screenshots/audiofeels.png" width="400"></a></td>
+    <td><a href="https://github.com/tosoba/Alarmist"><img src="./screenshots/alarmist.png" width="400"></a></td>
   </tr>
   <tr>
-    <th>Cryptosphere</th>
-    <th>WarsawTransportMap</th>
+    <th><a href="https://github.com/tosoba/CryptoSphere">Cryptosphere</a></th>
+    <th><a href="https://github.com/tosoba/WarsawTransportMap">WarsawTransportMap</a></th>
   </tr>
   <tr>
-    <td><img src="./screenshots/cryptosphere.png" width="400"></td>
-    <td><img src="./screenshots/warsawtransportmap.png" width="400"></td>
+    <td><a href="https://github.com/tosoba/CryptoSphere"><img src="./screenshots/cryptosphere.png" width="400"></a></td>
+    <td><a href="https://github.com/tosoba/WarsawTransportMap"><img src="./screenshots/warsawtransportmap.png" width="400"></a></td>
   </tr>
 </table>
 
